@@ -100,7 +100,7 @@ This comprehensive machine learning project predicts students' exam scores based
 
 ## Student Contributions
 - Aaryan Choudhary
-- Project completed: 
+- Project completed: 21st July 2025
 
 ##  License
 MIT License (MIT)
