@@ -1,0 +1,31 @@
+# Student Exam Score Prediction - Requirements
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Web Application
+streamlit>=1.25.0
+seaborn>=0.11.0
+plotly>=5.10.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Development tools
+notebook>=6.4.0
+
+# Optional: For enhanced data processing
+openpyxl>=3.0.0  # Excel file support
+xlrd>=2.0.0      # Excel file reading
